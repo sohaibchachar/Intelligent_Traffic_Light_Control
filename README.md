@@ -243,9 +243,6 @@ The DQN model with Memory Palace and Phase Gate enhancements performed best amon
 - **Sohaib Chachar** (33%): Replicated and analyzed IntelliLight experiments, performance metrics, visualizations
 - **Andrew Aquino** (33%): Environmental setup, experimental extensions, discount factor analysis, real-world data implementation
 
-## License
-
-This project is based on the IntelliLight research paper and uses code from the original repository. Please refer to the original repository licenses for usage terms.
 
 ## Acknowledgments
 
@@ -267,5 +264,6 @@ This is an academic research project. For questions or contributions, please ref
 ---
 
 **Note**: This project was completed as part of a Reinforcement Learning course at NJIT (Spring 2025).
+
 
 
