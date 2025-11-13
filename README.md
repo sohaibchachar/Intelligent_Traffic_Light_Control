@@ -25,7 +25,7 @@ Current traffic light systems are typically static and operate via pre-defined s
 ## Project Structure
 
 ```
-Project/
+Intelligent_Trafic_Light_Control/
 ├── README.md
 └── Project Milestone 5_ Final Project Report (3).pdf
 ```
@@ -264,6 +264,7 @@ This is an academic research project. For questions or contributions, please ref
 ---
 
 **Note**: This project was completed as part of a Reinforcement Learning course at NJIT (Spring 2025).
+
 
 
 
